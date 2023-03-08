@@ -3,3 +3,4 @@ const Page = ({ params }) => (
 );
 
 export default Page;
+export const dynamic = 'force-static';
